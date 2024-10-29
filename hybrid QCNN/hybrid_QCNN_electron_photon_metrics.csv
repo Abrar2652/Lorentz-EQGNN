@@ -1,0 +1,2 @@
+Optimizer,Learning_Rate,Weight_Decay,Batch_Size,Epochs,Loss_Function,Training_Subset_Size,Training_Time,Inference_Time,Final_Train_Accuracy,Final_Test_Accuracy
+SGD,0.1,0,64,20,L1Loss,10000 (10% of full dataset),741.72,5.47,0.99,0.99

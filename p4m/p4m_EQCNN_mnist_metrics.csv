@@ -1,0 +1,2 @@
+Optimizer,Learning_Rate,Weight_Decay,Batch_Size,Epochs,Loss_Function,Training_Subset_Size,Training_Time,Inference_Time,Final_Train_Accuracy,Final_Test_Accuracy
+GradientTransformationExtraArgs,0.01,N/A,50,10,map_loss,500 (subset of full dataset),253.10,0.04,0.93,0.86

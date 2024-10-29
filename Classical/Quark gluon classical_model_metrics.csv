@@ -1,0 +1,2 @@
+Optimizer,Learning_Rate,Batch_Size,Epochs,Loss_Function,Training_Subset_Size,Training_Time,Inference_Time,Final_Train_Accuracy,Final_Test_Accuracy
+Adam,0.0010000000474974513,32,50,binary_crossentropy,8000 (80% of dataset due to validation_split),151.43,0.47,91.09,57.38

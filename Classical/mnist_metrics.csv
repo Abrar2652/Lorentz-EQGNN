@@ -1,0 +1,2 @@
+Optimizer,Learning_Rate,Weight_Decay,Batch_Size,Epochs,Loss_Function,Training_Subset_Size,Training_Time,Inference_Time,Final_Train_Accuracy,Final_Test_Accuracy
+Adam,5e-05,1e-05,64,10,CrossEntropyLoss,512 (10% of full dataset),106.82,8.01,100.00,99.86
