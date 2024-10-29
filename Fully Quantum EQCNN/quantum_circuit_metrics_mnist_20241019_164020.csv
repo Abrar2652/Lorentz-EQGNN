@@ -1,0 +1,2 @@
+Optimizer,Learning_Rate,Batch_Size,Epochs,Loss_Function,Training_Time,Final_Train_Accuracy,Inference_Time,Final_Test_Accuracy,Training_Subset_Size,U_params,U,Embedding_Type,Feature_Reduction,Circuit,Cost_Function,Binary,Dataset
+Adam,0.01,128,50,mse,3128.80,0.90,119.49,0.91,12665 samples,6,U2_equiv,Equivariant-Amplitude,img16x16x1,QCNN,mse,True,mnist
